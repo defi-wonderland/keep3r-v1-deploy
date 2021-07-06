@@ -23,8 +23,7 @@
     "url": "https://github.com/defi-wonderland"
   },
   "scripts": {
-    "compile": "hardhat compile && tsc",
-    "postinstall": "yarn compile"
+    "compile": "hardhat compile && tsc"
   },
   "devDependencies": {
     "hardhat": "2.4.1",
